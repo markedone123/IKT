@@ -1,0 +1,2 @@
+# IKT
+Repo for homework
